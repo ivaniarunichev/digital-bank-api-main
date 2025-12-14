@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>digital-bank-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>digital-bank-api</name>
 	<description>Api rest for a digital bank api</description>
 	<url/>
